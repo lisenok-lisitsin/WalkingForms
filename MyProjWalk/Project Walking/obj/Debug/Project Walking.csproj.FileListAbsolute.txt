@@ -1,0 +1,11 @@
+E:\VisualRepos\doom\MyProjWalk\Project Walking\bin\Debug\Project Walking.exe.config
+E:\VisualRepos\doom\MyProjWalk\Project Walking\bin\Debug\Project Walking.exe
+E:\VisualRepos\doom\MyProjWalk\Project Walking\bin\Debug\Project Walking.pdb
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project Walking.csproj.AssemblyReference.cache
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project Walking.csproj.SuggestedBindingRedirects.cache
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project_Walking.MainVoid.resources
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project_Walking.Properties.Resources.resources
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project Walking.csproj.GenerateResource.cache
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project Walking.csproj.CoreCompileInputs.cache
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project Walking.exe
+E:\VisualRepos\doom\MyProjWalk\Project Walking\obj\Debug\Project Walking.pdb
